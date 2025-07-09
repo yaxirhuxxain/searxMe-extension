@@ -66,4 +66,4 @@ zip -r ./searxMe-extension.zip .
 
 ### Feedback & Support
 
-If you encounter any issues or have suggestions, please open an issue or start a discussion in the repository. Your feedback is always welcome—cheers!
+If you encounter any issues or have suggestions, please open an [issue or start a discussion](https://github.com/yaxirhuxxain/searxMe-extension/issues) in the repository. Your feedback is always welcome—cheers!
