@@ -1,0 +1,21 @@
+{
+    "manifest_version": 2,
+    "name": "SearxMe",
+    "version": "1.0",
+    "author": "Yasir",
+    "description": "Search using your own SearXNG instance",
+    "permissions": [
+        "search"
+    ],
+    "chrome_settings_overrides": {
+        "search_provider": {
+            "name": "SearxMe",
+            "keyword": "@searxng, @searx, @sx",
+            "search_url": "https://your-instance.com/search?q={searchTerms}",
+            "favicon_url": "favicon.png"
+        }
+    },
+    "icons": {
+        "48": "favicon.png"
+    }
+}
