@@ -37,7 +37,7 @@ or
 
 #### 3. Create the ZIP Archive
 
-* From the terminal (macOS/Linux) or PowerShell (Windows):
+* Inside the `searxMe-extension` folder using terminal (macOS/Linux) or PowerShell (Windows) run:
 
 ```bash
 zip -r ./searxMe-extension.zip .
