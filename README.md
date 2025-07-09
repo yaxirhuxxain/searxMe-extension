@@ -14,7 +14,7 @@ This extension has been tested on Firefox and Zen Browser. Although not explicit
 #### 1. Clone the Repository
 
 ```bash
-git clone repo_url
+git clone https://github.com/yaxirhuxxain/searxMe-extension.git
 ```
 
 #### 2. Update the Search URL
