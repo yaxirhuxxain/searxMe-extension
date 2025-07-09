@@ -40,7 +40,7 @@ or
 * From the terminal (macOS/Linux) or PowerShell (Windows):
 
 ```bash
-zip -r ./searxMe-extension.zip ./searxMe-extension
+zip -r ./searxMe-extension.zip .
 ```
 
 * Or on Windows (GUI):
